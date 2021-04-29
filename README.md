@@ -1,3 +1,3 @@
 # two-sum
 two sum solution from leet code
-Brute force, optimized solution to follow.
+Brute force. optimized solution to follow.
